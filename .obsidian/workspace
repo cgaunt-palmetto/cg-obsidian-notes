@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "e99564ececa66435",
+    "type": "split",
+    "children": [
+      {
+        "id": "6049aeb3a8cf6df1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "creating_scalable_staging_script.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fcf61f09a9f2aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca668956765dd17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795c1051673bda58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0d91be6cff49c6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "b935627510b2ba5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd8d7a638ec6bbe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87a6217845024b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "creating_scalable_staging_script.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6049aeb3a8cf6df1",
+  "lastOpenFiles": [
+    "creating_scalable_staging_script.md",
+    "salesforce_staging_generator.md",
+    "docker_tips.md"
+  ]
+}
