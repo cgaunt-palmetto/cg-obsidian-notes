@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "creating_scalable_staging_script.md",
+            "file": "good_data_reads.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creating_scalable_staging_script.md",
+                "file": "good_data_reads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,9 @@
   },
   "active": "6049aeb3a8cf6df1",
   "lastOpenFiles": [
+    "good_data_reads.md",
+    "looker_working_with_html.md",
+    "markdown_notes.md",
     "creating_scalable_staging_script.md",
     "salesforce_staging_generator.md",
     "docker_tips.md"
