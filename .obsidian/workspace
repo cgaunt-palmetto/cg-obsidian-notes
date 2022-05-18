@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git commands.md",
+            "file": "markdown_notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git commands.md",
+                "file": "markdown_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "6049aeb3a8cf6df1",
   "lastOpenFiles": [
-    "git commands.md",
-    "Untitled.md",
-    "creating_scalable_staging_script.md",
-    "docker_tips.md",
+    "markdown_notes.md",
     "salesforce_staging_generator.md",
-    "good_data_reads.md",
     "looker_working_with_html.md",
-    "markdown_notes.md"
+    "good_data_reads.md",
+    "git commands.md",
+    "docker_tips.md",
+    "creating_scalable_staging_script.md",
+    "Untitled.md"
   ]
 }
