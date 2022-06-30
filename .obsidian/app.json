@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "promptDelete": false
 }

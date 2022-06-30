@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git commands.md",
+            "file": "Palm commands.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 356
   },
   "right": {
     "id": "b935627510b2ba5a",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git commands.md",
+                "file": "Palm commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,15 @@
   },
   "active": "6049aeb3a8cf6df1",
   "lastOpenFiles": [
+    "Palm commands.md",
     "git commands.md",
-    "markdown_notes.md",
-    "salesforce_staging_generator.md",
-    "looker_working_with_html.md",
-    "good_data_reads.md",
-    "docker_tips.md",
-    "creating_scalable_staging_script.md",
-    "Untitled.md"
+    "Safe Phrase.md",
+    "snowflake notes.md",
+    "Scratchpad.md",
+    "Work To Dos.md",
+    "ahj database brainstorm.md",
+    "Opportunity Milestone Warehouse Structure.md",
+    "FAL Heuristic Forecasting Scripts.md",
+    "good_data_reads.md"
   ]
 }
